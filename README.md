@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IbrahimAkbar-tech
-- 👀 I’m interested in Web-Technology and looking to become a Software Engineer
+- 👀 I’m interested in Software Development and looking to become a Software Engineer
 - 🌱 I’m currently learning JS/REACT
 - 📫 How to reach me: grandline1@hotmail.co.uk
 
